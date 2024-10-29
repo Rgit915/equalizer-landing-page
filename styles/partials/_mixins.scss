@@ -1,0 +1,17 @@
+@mixin flex-center($direction: row, $justify: center, $align: center, $gap: 0) {
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $justify;
+  align-items: $align;
+  gap: $gap;
+}
+
+@mixin responsive-background($mobile-img, $desktop-img) {
+  background-image: url($mobile-img);
+  background-size: cover;
+  background-position: center;
+
+  @media screen and (min-width: 768px) {
+    background-image: url($desktop-img);
+  }
+}
