@@ -24,9 +24,9 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-![Desktop Preview](https://github.com/Rgit915/equalizer-landing-page/tree/master/assets/screenshots/equalizer-landing-page-desktop-solution-preview.png)
+![Desktop Preview](https://github.com/Rgit915/equalizer-landing-page/blob/master/assets/screenshots/equalizer-landing-page-desktop-solution-preview.png)
 
-![Mobile Preview](https://github.com/Rgit915/equalizer-landing-page/tree/master/assets/screenshots/equalizer-landing-page-mobile-solution-preview.png)
+![Mobile Preview](https://github.com/Rgit915/equalizer-landing-page/blob/master/assets/screenshots/equalizer-landing-page-mobile-active-states-solution-preview.png)
 
 
 ### Links
